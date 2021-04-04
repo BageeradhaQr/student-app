@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+create a react app
+
+npx create-react-app student-app
+cd student-app
+npm start
+
+=======================================================
+Types of components
+1) Functional Component
+2) Class Component
+=======================================================
+React Routing
+npm i  react-router-dom
+======================================================
+command to install Axios:
+npm install axios
+======================================================
