@@ -54,9 +54,9 @@ class Login extends Component {
                                     <CardBody>
                                         <Form>
                                             <div class="row" className="mb-2 pageheading">
-                                                <div class="col-sm-12 btn btn-primary">
+                                                <div>
                                                     Login
-                             </div>
+                                                </div>
                                             </div>
                                             <InputGroup className="mb-3">
                                                 <Input type="text" onChange={this.email} placeholder="Enter Email" />
